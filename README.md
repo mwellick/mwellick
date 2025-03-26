@@ -2,7 +2,8 @@
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJpZDZhOGRhajNzOWw5MnZ0aWJzZTRtNDY3YXNhbW8zNW84cmFsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
 </div>
 
-### Hello there, I'm Michael! 👋
+<h2 align="center"> Hello there, I'm Michael! 👋</h2>  
+
 
 
 
