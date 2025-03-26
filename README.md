@@ -2,16 +2,16 @@
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJpZDZhOGRhajNzOWw5MnZ0aWJzZTRtNDY3YXNhbW8zNW84cmFsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
 </div>
 
-###
+### Hello there, I'm Michael! 👋
 
-<h2 align="left">Hello there, I'm Michael ! 👋</h2>
 
-###
 
-<h3 align="left">🚀 About Me:<br>I'm a Python Developer passionate about building efficient and scalable backend systems. <br><br>I'm currently exploring Data Science as a hobby, but I'm eager to deepen my expertise, particularly in data analysis, machine learning, and AI development.</h3>
+### 🚀 About Me:
 
-###
-<h3 align="left">My stack and tools:</h3>
+<h4>I'm a Python Developer passionate about building efficient and scalable backend systems.
+I'm currently exploring Data Science as a hobby, but I'm eager to deepen my expertise, particularly in data analysis, machine learning, and AI development.</h4>
+
+### My stack and tools:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
@@ -66,4 +66,4 @@
   </strong>  
 </ul>
 
-###
+
