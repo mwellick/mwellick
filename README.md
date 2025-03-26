@@ -8,10 +8,10 @@
 
 ###
 
-<h3 align="left">About me:<br>I'm a Python Developer passionate about building efficient and scalable backend systems. <br><br>I'm currently exploring Data Science as a hobby, but I'm eager to deepen my expertise, particularly in data analysis, machine learning, and AI development.</h3>
+<h3 align="left">🚀 About Me:<br>I'm a Python Developer passionate about building efficient and scalable backend systems. <br><br>I'm currently exploring Data Science as a hobby, but I'm eager to deepen my expertise, particularly in data analysis, machine learning, and AI development.</h3>
 
 ###
-
+<h3 align="left">My stack and tools:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
@@ -52,14 +52,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
 </div>
-
-
-<img src="https://raw.githubusercontent.com/mwellick/mwellick/output/snake.svg" alt="Snake animation" />
-
-
-
+<h3 align="left">My activities:</h3>
 <div align="center">
-  <img height="142" src=""  />
+  <img src="https://www.codewars.com/users/mwellick/badges/micro"  />
 </div>
+<br>
+<h3 align="left">🎯 What I'm Working On:</h3>  
+<ul>
+  <strong>
+  <li>Building scalable backend systems</li>  
+  <li>Sharpening my knowledge in data analysis, ML/AI 🤖</li>  
+  <li>Exploring advanced algorithms & data structures</li>
+  </strong>  
+</ul>
 
 ###
