@@ -61,9 +61,9 @@ I'm currently exploring Data Science as a hobby, but I'm eager to deepen my expe
 <h3 align="left">🎯 What I'm Working On:</h3>  
 <ul>
   <strong>
-  <li>Building scalable backend systems</li>  
-  <li>Sharpening my knowledge in data analysis, ML/AI 🤖</li>  
-  <li>Exploring advanced algorithms & data structures</li>
+  <li>Building scalable and efficient backend systems</li>  
+  <li>Exploring data analysis, machine learning, and artificial intelligence 🤖</li>  
+  <li>Sharpening my expertise in algorithms, data structures, and problem-solving</li>
   </strong>  
 </ul>
 
