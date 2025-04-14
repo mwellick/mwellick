@@ -54,9 +54,7 @@ I'm currently exploring Data Science as a hobby, but I'm eager to deepen my expe
   <img width="12" />
 </div>
 <h3 align="left">My activities:</h3>
-<div align="center">
-   <a href="url">https://leetcode.com/u/4EkDuNvxle/</a>
-</div>
+<h4>LeetCode Profile -- (https://leetcode.com/u/4EkDuNvxle/) </h4> 
 <br>
 <h3 align="left">🎯 What I'm Working On:</h3>  
 <ul>
