@@ -56,7 +56,7 @@ I'm currently exploring Data Science as a hobby, but I'm eager to deepen my expe
 <h3 align="left">My activities:</h3>
 <h4>LeetCode Profile -- (https://leetcode.com/u/4EkDuNvxle/) </h4> 
 <br>
-<h3 align="left">🎯 What I'm Working On:</h3>  
+<h3 align="left">🎯 What I'm Working On Right Now:</h3>  
 <ul>
   <strong>
   <li>Building scalable and efficient backend systems</li>  
